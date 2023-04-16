@@ -85,12 +85,12 @@ Table of Content
    
 /* Handle */
 ::-webkit-scrollbar-thumb {
-    background: #36d2cd; 
+    background: #96bedc; 
 }
   
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-    background: #36d2cd; 
+    background: #96bedc; 
 }
 
 html {
