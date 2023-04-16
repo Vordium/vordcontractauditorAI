@@ -171,29 +171,29 @@ header.header-light #mainmenu a.active,
 blockquote.q-big .d-big,
 #mainmenu-v2 li a:hover,
 #de-menu-container .d-social i:hover {
-    color: var(--primary-color);
+    color: var(#96bedc);
 }
 
 .container-timeline ul li,
 blockquote {
-    border-left-color: var(--primary-color);
+    border-left-color: var(#96bedc);
 }
 
 header #mainmenu a span,
 header.transparent #mainmenu a span,
 .de-grey #subheader h1,
 h3.s_border {
-    border-bottom-color: var(--primary-color);
+    border-bottom-color: var(#96bedc);
 }
 
 
 .container-timeline ul li {
-    border-top-color: var(--primary-color);
+    border-top-color: var(#96bedc);
 }
 
 .line-preloader .p-line:nth-child(1) {
-    border-right-color: var(--primary-color);
-    border-bottom-color: var(--primary-color);
+    border-right-color: var(#96bedc);
+    border-bottom-color: var(#96bedc);
 }
 
 .line-preloader .p-line:nth-child(2) {
