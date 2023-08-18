@@ -86,6 +86,7 @@ Table of Content
 /* Handle */
 ::-webkit-scrollbar-thumb {
     background: #96bedc; 
+    border-radius: 2px;
 }
   
 /* Handle on hover */
