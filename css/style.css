@@ -2503,7 +2503,7 @@ img.grayscale{
 }
 
 #audit_form textarea {
-    height: 168px;
+    height: 300px;
     resize: none;
 }
 
@@ -3845,7 +3845,7 @@ hr {
 .dark-scheme .form-border input[type=date],
 .dark-scheme .form-border select {
     color: #ffffff;
-    border: solid 1px rgba(255, 255, 255, .2);
+    border: solid 4px rgba(255, 255, 255, .2);
 }
 
 .dark-scheme ::-webkit-calendar-picker-indicator {
