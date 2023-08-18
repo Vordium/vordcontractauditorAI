@@ -86,6 +86,7 @@ Table of Content
 /* Handle */
 ::-webkit-scrollbar-thumb {
     background: #96bedc; 
+    border-radius: 2px;
 }
   
 /* Handle on hover */
@@ -2505,6 +2506,7 @@ img.grayscale{
 #audit_form textarea {
     height: 300px;
     resize: none;
+    background-color: #171a1d;
 }
 
 #audit_form.s2 textarea {

@@ -2511,6 +2511,7 @@ img.grayscale{
 #audit_form.s2 textarea {
     height: 180px;
     resize: none;
+    background-color: #171a1d;
 }
 
 #audit_form .radio-img {
