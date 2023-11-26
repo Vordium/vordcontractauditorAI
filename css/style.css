@@ -775,9 +775,7 @@ header .header-col.mid .social-icons {
     border-bottom: solid 1px rgba(255, 255, 255, .1);
 }
 
-#mainmenu li:last-child>a {
-    border-bottom: none;
-}
+
 
 .dark-scheme #mainmenu li li a {
     color: #ffffff;
