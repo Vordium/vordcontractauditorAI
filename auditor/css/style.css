@@ -16753,6 +16753,7 @@ blockquote.q-big{
     font-size: 32px;
     border: none;
     margin: 0;
+    display: none;
     padding: 0;
 }
 
